@@ -97,7 +97,104 @@ http://cmscollegemanagementsystem.pythonanywhere.com/
 
 <img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/staff_homepage.PNG"  alt="Staff Homepage">
 
+**Student Home Page**
 
-**Studnet Home Page**
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/student_homepage.PNG"  alt="Student Homepage">
+
+**Add Course Page**
+
+<img src="https://github.com/hackstarsj/student_management_system_in_django/blob/master/screenshots/add_course.PNG" alt="Add Course">
+
+**Add Student Page**
+
+<img src="https://github.com/hackstarsj/student_management_system_in_django/blob/master/screenshots/add_student_dj.PNG" alt="Add Student">
+
+**Add Staff Page**
+
+<img src="https://github.com/hackstarsj/student_management_system_in_django/blob/master/screenshots/add_staff.PNG" alt="Add Staff">
 
 
+**Add Subject Page**
+
+<img src="https://github.com/hackstarsj/student_management_system_in_django/blob/master/screenshots/add_subject.PNG" alt="Add Subject">
+
+**Manage Subject Page**
+
+<img src="https://github.com/hackstarsj/student_management_system_in_django/blob/master/screenshots/manage_subject.PNG" alt="Add Subject">
+
+**Manage Course Page**
+
+<img src="https://github.com/hackstarsj/student_management_system_in_django/blob/master/screenshots/manage_course.PNG" alt="Add Subject">
+
+**Manage Staff Page**
+
+<img src="https://github.com/hackstarsj/student_management_system_in_django/blob/master/screenshots/manage_staff.PNG" alt="Add Subject">
+
+**Manage Student Page**
+
+<img src="https://github.com/hackstarsj/student_management_system_in_django/blob/master/screenshots/manage_subject.PNG" alt="Add Subject">
+
+**Staff Take Attendance Page**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/take_attendance.PNG"  alt="Take Attendance Page">
+
+**Staff View and Update Attendance Page**
+
+<img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/view_attendance.PNG?raw=true"  alt="Staff View and Update Attendance Page">
+
+**Session Year Manage**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/session_year.PNG"  alt="Session Year Manage">
+
+**Staff Apply for Leave**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/leave_message.PNG"  alt="Staff Apply for Leave">
+
+**Staff Feedback Message**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/feedback_message.PNG"  alt="Staff Feedback Message">
+
+**Student View Attendance Form**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/student_view_attenndance.PNG"  alt="Student View Attendance Form">
+
+**Student View Attendance Data**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/attendance_data.PNG"  alt="Student View Attendance Data">
+
+**Student Apply for Leave**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/student_leave.PNG"  alt="Student Apply for Leave">
+
+**Student Send Feedback Message**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/student_feedback.PNG"  alt="Student Send Feedback Message">
+
+**HOD Reply Student Feedback**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/feedback_student.PNG"  alt="HOD Reply Student Feedback">
+
+**HOD Reply Staff Feedback**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/feedback_staff.PNG"  alt="HOD Reply Staff Feedback">
+
+**HOD Approve and Disapprove Student Leave**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/student_leave_approve.PNG"  alt="HOD Approve and Disapprove Student Leave">
+
+**HOD Approve and Disapprove Staff Leave**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/staff_leave_approve.PNG"  alt="HOD Approve and Disapprove Staff Leave">
+
+**HOD View Attendance Data**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/admin_view_attendance.PNG"  alt="HOD View Attendance Data">
+
+**Add Student Results From Staff Panel**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/add_result2.PNG"  alt="Add Results">
+	
+  
+ Email_id should be in following format:
+ 
+	<username>.<staff|student|hod>@<college_domain>
