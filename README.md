@@ -67,3 +67,21 @@ http://cmscollegemanagementsystem.pythonanywhere.com/
 
 # **Project Screenshots**
 
+**Home Page**
+
+![1](https://user-images.githubusercontent.com/48528522/120111640-5d516980-c190-11eb-8345-a79683d1a251.png)
+
+![2](https://user-images.githubusercontent.com/48528522/120111685-85d96380-c190-11eb-9d7b-c929d137ea91.png)
+
+![FireShot Capture 365 - College Management System - Dashboard_ - cmscollegemanagementsystem pythonanywhere com](https://user-images.githubusercontent.com/48528522/120111706-9ee21480-c190-11eb-868c-eb3badb8e8dd.png)
+
+**User Registration**
+
+![3](https://user-images.githubusercontent.com/48528522/120111714-aacdd680-c190-11eb-9f1d-a888aa8a4f03.png)
+
+
+**User Login**
+
+![4](https://user-images.githubusercontent.com/48528522/120111732-b7522f00-c190-11eb-8e09-fb028cd2d869.png)
+
+
