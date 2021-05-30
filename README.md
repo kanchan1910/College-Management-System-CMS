@@ -85,3 +85,19 @@ http://cmscollegemanagementsystem.pythonanywhere.com/
 ![4](https://user-images.githubusercontent.com/48528522/120111732-b7522f00-c190-11eb-8e09-fb028cd2d869.png)
 
 
+**Contact Page**
+
+![5](https://user-images.githubusercontent.com/48528522/120111844-1d3eb680-c191-11eb-98fb-662646abf393.png)
+
+**Admin Home Page**
+
+![6](https://user-images.githubusercontent.com/48528522/120111869-3fd0cf80-c191-11eb-8640-92e14950fc37.png)
+
+**Staff Home Page**
+
+<img src="https://raw.githubusercontent.com/hackstarsj/student_management_system_part_11/master/screenshots/staff_homepage.PNG"  alt="Staff Homepage">
+
+
+**Studnet Home Page**
+
+
