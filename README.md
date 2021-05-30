@@ -3,7 +3,7 @@
 # **My Website:**
 http://cmscollegemanagementsystem.pythonanywhere.com/
 
-**Project Summary**
+# **Project Summary**
 - This is a Simple College Management System Developed for Educational Purpose using Python (Django).
 
 ## Features of this Website
@@ -39,7 +39,7 @@ http://cmscollegemanagementsystem.pythonanywhere.com/
 6. Update Profile
 7. Login/Logout
 
-**Tech Stacks**
+# **Tech Stacks**
 
 - Django, Ajax, Jquery, Bootstrap, Javascript, Python, Owl Carousel, HTML, CSS
 
@@ -65,6 +65,5 @@ http://cmscollegemanagementsystem.pythonanywhere.com/
 
 `python manage.py runserver`
 
-**Project Screenshots**
-
+# **Project Screenshots**
 
